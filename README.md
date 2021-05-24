@@ -19,7 +19,7 @@ Note that columns (6 - 10) were based on the findings in the examination report.
 #### Your task
 
 1. Make a histogram of the patients' ages at the time of the examination.
-2. How many of the patients were adults (< 18 years) at the time of the examination?
+2. How many of the patients were adults (> 18 years) at the time of the examination?
 3. How many of the adult patients had "abnormal" reports?
 4. Make a stacked bar plot showing the number of normal vs abnormal examinations conducted in each year?
 5. Make a bar plot of the daily count of examinations conducted in the month of April 2010 compared to those conducted in April 2005.
